@@ -1,18 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>WAD2 Lab 3: My Portfolio</title>
-</head>
-<body class="container mt-5">
+@extends('layouts.app')
 
-    <h1>YOW! Welcome to my Portfolio! :D</h1>
-    <p>Hello! I'm Ydrey. This is my Laravel portfolio project. Hope you like it!</p>
-    
-    <a href="/about" class="btn btn-primary">About Me</a>
-    <a href="/details" class="btn btn-primary">More Details</a>
-    
-</body>
-</html>
+@section('title', 'Home')
+
+@section('content')
+    <div class="text-center">
+        <div class="position-absolute top-50 start-50 translate-middle">
+            <h1 class="display-4 position-relative ">Welcome to My Portfolio</h1>
+            <p class="lead">Hi! I'm Ydrey. This is my Laravel portfolio project. Hope you like it!</p>
+        
+            <div class="mt-5">
+                <a href="/about" class="btn btn-primary">About Me</a>
+                <a href="/details" class="btn btn-outline-dark">More Details</a>
+            </div>
+        </div>
+    </div>
+@endsection
