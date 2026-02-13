@@ -30,7 +30,7 @@
         </div>
 
         <!-- General Goals -->
-        <div class="accordion" id="general">
+        <div class="accordion mt-2" id="general">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button fs-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -44,7 +44,7 @@
                             <li class="list-group-item"><small>Have a career related to my course, preferably a stable and manageable job</small></li>
                             <li class="list-group-item"><small>Support MCGI’s good works by volunteering, donating (once I become successful ofc), and using the skills I gained in LV</small></li>
                             <li class="list-group-item"><small>Have enough money to provide for our needs, some wants, and help reduce financial worries for my family</small></li>
-                            <li class="list-group-item"><small>Build our own house since we are currently renting</small></li>
+                            <li class="list-group-item"><small>Own a house since we are currently renting</small></li>
                             <li class="list-group-item"><small>Live peacefully with my family, friends, and the people who care about me</small></li>
                         </ul>
                     </div>

@@ -9,7 +9,7 @@
             <p class="lead">Hi! I'm Ydrey. This is my Laravel portfolio project. Hope you like it!</p>
         
             <div class="mt-5">
-                <a href="/about" class="btn btn-primary">About Me</a>
+                <a href="/about" class="btn btn-dark">About Me</a>
                 <a href="/details" class="btn btn-outline-dark">More Details</a>
             </div>
         </div>
