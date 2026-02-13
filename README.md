@@ -16,7 +16,7 @@ It demonstrates the use of routes, controllers, and Blade templates to create mu
 
 
 ## How to Run the Project Locally
-### 📥 1. Clone the Repository
+### 1. Clone the Repository
 Open Command Prompt or Terminal and run:
 git clone https://github.com/ydreyannramirez035-bot/lab3-portfolio.git
 Then go inside the project folder:
