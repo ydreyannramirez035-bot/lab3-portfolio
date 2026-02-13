@@ -1,4 +1,4 @@
-# Laravel Portfolio Application
+# Laboratory 3: Laravel Pages, Controllers, and Routes
 
 ## Project Description
 This project is a simple portfolio website built using Laravel.  
